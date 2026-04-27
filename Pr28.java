@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class Pr29 {
+public class Pr28{
     public static void main(String[] args) {
         int lineCount = 0;
         int wordCount = 0;
